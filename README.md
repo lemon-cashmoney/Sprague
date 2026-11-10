@@ -194,4 +194,4 @@ This repository serves as the official landing page for Sprague. The software is
 **Get the most recent version of Sprague today!**
 
 ---
-**Last updated:** 2026-11-10 16:52:53 UTC
+**Last updated:** 2026-11-10 22:12:42 UTC
